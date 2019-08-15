@@ -1,0 +1,9 @@
+debug.cmd
+run.cmd
+.vscode/
+data/
+
+*.exe
+*.pdb
+*.vs
+*.sln
